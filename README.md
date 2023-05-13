@@ -1,1 +1,1 @@
-# SLPhase2SwiggyProjecy
+# SLPhase2SwiggyProject
